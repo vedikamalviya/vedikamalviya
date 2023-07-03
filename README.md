@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vedika Malviya</h1>
+
+<h1 ali![Banner](https://github.com/vedikamalviya/vedikamalviya/assets/62900754/aa42ab6c-408b-498f-be5f-f76f039e0067)
+gn="center">Hi 👋, I'm Vedika Malviya</h1>
 <h3 align="center">A Computer Engineering student at MIT,Manipal</h3>
 
 - 🌱 I’m currently learning **Software Development**
