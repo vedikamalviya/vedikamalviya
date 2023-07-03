@@ -1,7 +1,4 @@
-
-<h1 ali![Banner](https://github.com/vedikamalviya/vedikamalviya/assets/62900754/aa42ab6c-408b-498f-be5f-f76f039e0067)
-gn="center">Hi 👋, I'm Vedika Malviya</h1>
-<h3 align="center">A Computer Engineering student at MIT,Manipal</h3>
+<img width="1834" alt="Make your README" src="https://github.com/vedikamalviya/vedikamalviya/assets/62900754/59d63cd3-be02-4fb2-b005-635ed9b136bf">
 
 - 🌱 I’m currently learning **Software Development**
 
